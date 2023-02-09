@@ -1,0 +1,8 @@
+desafio para reforçar os conceitos de:
+
+- estruturando um projeto HTML;
+- uso de tags HTML mais comuns;
+- conceitos iniciais de CSS;
+- posicionamento e alinhamento de elementos na tela;
+- aplicando fontes customizadas;
+- espaçamentos;
